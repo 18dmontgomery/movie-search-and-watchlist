@@ -123,10 +123,14 @@ form input {
     .line-3 h3 {
         margin-right: 1.2em;
     }
-    h3, .line-2 {
+    .line-2 {
         white-space:nowrap;
     }
     #movie-placeholder {
         margin-top: 2rem;
     }
+    #movie {
+        height: 100%;
+    }
+
 }
